@@ -9,7 +9,7 @@
           
             "current_version_supporter": "1.9.0",
             "supporter_update_release_date": "29/04/25",
-            "supporter_update_changelog": "•• 26,000 words (approximately 3 Hours of additional gameplay) \n• 19 New Events (15 Main Events, 4 Character Events) \n• Online News System (PC only for now) & in-game save management \n• Support for {s}Chapter 2{/s}",
+            "supporter_update_changelog": "•• 30,000 words (approximately 4 Hours of additional gameplay) \n• 20 New Events (16 Main Events, 4 Character Events) \n• Online News System (For PC only) & in-game Save Management \n• Support for {s}Chapter 2{/s}",
             "supporter_update_image_url": "https://maelstrom507.github.io/anotherworld_news/1_9_0_release.jpg"
         }
     ],
@@ -17,7 +17,7 @@
         {
             "title": "Update 1.9.0 - Supporter Release!",
             "date": "29/04/25",
-            "text": "Version 1.9.0 has just been released to Supporters - concluding the events of Kirei's Birthday! \n \nThis update includes: \n    • 26,000 words (approximately 3 Hours of additional gameplay) \n    • 19 New Events (15 Main Events, 4 Character Events) \n    • Online News System & in-game save management \n    • Support for {s}Chapter 2{/s}",
+            "text": "Version 1.9.0 has just been released to Supporters - concluding the events of Kirei's Birthday! \n \nThis update includes: \n    • 30,000 words (approximately 4 Hours of additional gameplay) \n    • 20 New Events (16 Main Events, 4 Character Events) \n    • Online News System & in-game Save Management \n    • Support for {s}Chapter 2{/s}",
             "image_url": "https://maelstrom507.github.io/anotherworld_news/1_9_0_supporter_release.jpg",
             "link_patreon": "https://www.patreon.com/c/maelstrom507",
             "link_subscribestar": "https://subscribestar.adult/another-world",
@@ -28,7 +28,7 @@
 		{
 			"title": "'Latest News' - A New Feature!",
             "date": "29/04/25",
-            "text": "Version 1.9.0 has brought along a new feature - the 'Latest News'! It's a great way for me to pass on any information regarding things that are happening within the community - so be sure to check back here for important news and updates! \n \n{i}(And yes, you just got some news about the new news in your news. Crazy times.){/i}",
+            "text": "Version 1.9.0 has brought along a new feature - the 'Latest News'! It's a great way for me to pass on any information regarding things that are happening within the community - so be sure to check back here for important news and updates! \n \n{i}(And yeah, you just got some news about the new news in your news. Crazy times.){/i}",
             "image_url": "https://maelstrom507.github.io/anotherworld_news/latest_news_release.jpg",
             "link_patreon": "",
             "link_subscribestar": "",
