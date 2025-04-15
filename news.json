@@ -2,7 +2,7 @@
     "online_news_version": "1",
     "update": [
         {
-            "current_version_public": "1.8.3",
+            "current_version_public": "1.9.1",
 			"public_update_release_date": "16/11/24",
  			"public_update_image_url": "https://maelstrom507.github.io/anotherworld_news/1_8_3_release.jpg",
           	"public_update_changelog": "• Bugfixes involving the End Screen and Autosaving",
