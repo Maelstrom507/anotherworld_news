@@ -1,0 +1,84 @@
+{
+    "online_news_version": "1",
+    "update": [
+        {
+            "current_version_public": "1.8.3",
+			"public_update_release_date": "16/11/24",
+ 			"public_update_image_url": "https://anotherworldwebdata.tiiny.site/1_8_3_release.jpg",
+          	"public_update_changelog": "• Bugfixes involving the End Screen and Autosaving",
+          
+            "current_version_supporter": "1.9.0",
+            "supporter_update_release_date": "29/04/25",
+            "supporter_update_changelog": "• 31,000 words (approximately 3 Hours of additional gameplay) \n• 21 New Events (15 Main Events, 6 Character Events) \n• Online News System (PC only) & in-game Save Data management \n• Support for {s}Chapter 2{/s}",
+            "supporter_update_image_url": "https://anotherworldwebdata.tiiny.site/1_9_0_release.jpg"
+        }
+    ],
+
+    "news": [
+        {
+            "title": "Update 1.9.0 - Supporter Release!",
+            "date": "18/04/25",
+            "text": "Version 1.9.0 has just been released to Supporters - concluding the events of Kirei's Birthday! \n \nThis update includes: \n    • 31,000 words (approximately 3 Hours of additional gameplay) \n    • 21 New Events (15 Main Events, 6 Character Events) \n    • Online News System & in-game Save management \n    • Support for {s}Chapter 2{/s}",
+            "image_url": "https://anotherworldwebdata.tiiny.site/1_9_0_supporter_release.jpg",
+            "link_patreon": "https://www.patreon.com/c/maelstrom507",
+            "link_subscribestar": "https://subscribestar.adult/another-world",
+            "link_discord": "",
+            "link_itch": "",
+            "link_misc": ""
+        },
+		{
+			"title": "'Latest News' - A New Feature!",
+            "date": "18/04/25",
+            "text": "Version 1.9.0 has brought along a new feature - the 'Latest News'! It's a great way for me to pass on any information regarding things that are happening within the community - so be sure to check back here for important news and updates! \n \n{i}(And yes, you just got some news about the new news in your news. Crazy times.){/i}",
+            "image_url": "https://anotherworldwebdata.tiiny.site/latest_news_release.jpg",
+            "link_patreon": "",
+            "link_subscribestar": "",
+            "link_discord": "",
+            "link_itch": "",
+            "link_misc": ""
+		},
+      	{
+          	"title": "Supporter Render Vote - April 2025",
+          	"date": "09/04/25",
+          	"text": "Supporters have just finished voting for their monthly supporter photoshoot as a part of their supporter benefits - and this time, the photoshoot included Sakura! \n\nConsider supporting through either Patreon or Subscribestar to view this month's photoshoot - plus gain access to {b}loads{/b} more extra content!",
+          	"image_url": "https://anotherworldwebdata.tiiny.site/supporter_photoshoot_25_03.jpg",
+			"link_patreon": "https://www.patreon.com/c/maelstrom507",
+            "link_subscribestar": "https://subscribestar.adult/another-world",
+            "link_discord": "https://discord.com/invite/TJpheQW3db",
+			"link_itch": "",
+            "link_misc": ""
+        },
+        {
+			"title": "Another World 2! (April Fools!)",
+            "date": "01/04/25",
+            "text": "Announcing 'Another World 2: Another-er World' - the newest game in the 'Another World' series! \n\nDid you think Arvin's emotional journey was over? Think again, IDIOT! \n\nAnother World 2 is here - and it’s even Another-er than before! Download ‘Another World 2: Another-er World’ Today!",
+            "image_url": "https://maelstrom507.github.io/anotherworld_news/april_fools_2025.jpg",
+            "link_patreon": "https://www.patreon.com/posts/another-world-2-125623054?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link",
+            "link_subscribestar": "https://subscribestar.adult/posts/1788928",
+            "link_discord": "",
+            "link_itch": "https://maelstrom507.itch.io/another-world/devlog/916346/another-world-2-another-er-world-download-now-",
+            "link_misc": ""
+		},
+        {
+            "title": "500 Discord Members!",
+            "date": "17/12/24",
+            "text": "We're currently at just over 500 Members over on the Another World Discord - and to celebrate, we held a character vote, with the winner recieving a lewd photoshoot competition! \n\nConsider joining the Discord - where you'll have access to this photoshoot and all older ones!",
+            "image_url": "https://anotherworldwebdata.tiiny.site/500_discord_members.jpg",
+            "link_patreon": "",
+            "link_subscribestar": "",
+            "link_discord": "https://discord.com/invite/TJpheQW3db",
+            "link_itch": "",
+            "link_misc": ""
+        },
+        {
+            "title": "'Another World' OST on YouTube!",
+            "date": "18/08/24",
+            "text": "Due to popular demand, the official 'Another World' soundtrack is available on Youtube! \n\nI'll be adding tracks frequently to the channel to share all of the talent that's been accumulated for the soundtrack to this game. Be sure to check it out if you're interested!",
+            "image_url": "https://anotherworldwebdata.tiiny.site/ost_on_youtube.jpg",
+            "link_patreon": "",
+            "link_subscribestar": "",
+            "link_itch": "",
+            "link_misc": "https://www.youtube.com/playlist?list=PLbjgc41zygDt5Ft6TJzBChcPZHk-xgHg-"
+        }
+    ]
+}
