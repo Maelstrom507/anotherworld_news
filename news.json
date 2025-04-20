@@ -10,7 +10,7 @@
           
             "current_version_supporter": "1.9.0",
             "supporter_update_release_date": "29/04/25",
-            "supporter_update_changelog": "• 31,000 words (approximately 3 Hours of additional gameplay) \n• 21 New Events (15 Main Events, 6 Character Events) \n• Online News System (PC only) & in-game Save Data management \n• Support for {s}Chapter 2{/s}",
+            "supporter_update_changelog": "• 31,000 words (approximately 3 Hours of additional gameplay) \n• 21 New Events (15 Main Events, 6 Character Events) \n• Online News System (PC only) & in-game Save Data Management \n• Support for {s}Chapter 2{/s}",
             "supporter_update_image_url": "https://maelstrom507.github.io/anotherworld_news/1_9_0_release.jpg"
         }
     ],
@@ -19,7 +19,7 @@
         {
             "title": "Update 1.9.0 - Supporter Release!",
             "date": "18/04/25",
-            "text": "Version 1.9.0 has just been released to Supporters - concluding the events of Kirei's Birthday! \n \nThis update includes: \n    • 31,000 words (approximately 3 Hours of additional gameplay) \n    • 21 New Events (15 Main Events, 6 Character Events) \n    • Online News System & in-game Save management \n    • Support for {s}Chapter 2{/s}",
+            "text": "Version 1.9.0 has just been released to Supporters - concluding the events of Kirei's Birthday! \n \nThis update includes: \n    • 31,000 words (approximately 3 Hours of additional gameplay) \n    • 21 New Events (15 Main Events, 6 Character Events) \n    • Online News System & in-game Save Data Management \n    • Support for {s}Chapter 2{/s}",
             "image_url": "https://maelstrom507.github.io/anotherworld_news/1_9_0_supporter_release.jpg",
             "link_patreon": "https://www.patreon.com/c/maelstrom507",
             "link_subscribestar": "https://subscribestar.adult/another-world",
@@ -27,6 +27,17 @@
             "link_itch": "",
             "link_misc": ""
         },
+        {
+			"title": "Happy Easter!",
+            "date": "20/04/25",
+            "text": "It's Bunny Suit Season™! Three bunnies. One choice. Who are you spending Easter with? 🐰💘",
+            "image_url": "https://maelstrom507.github.io/anotherworld_news/easter_2025.jpg",
+            "link_patreon": "",
+            "link_subscribestar": "",
+            "link_discord": "",
+            "link_itch": "",
+            "link_misc": ""
+		},
 		{
 			"title": "'Latest News' - A New Feature!",
             "date": "18/04/25",
