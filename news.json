@@ -2,7 +2,7 @@
 	"online_news_version": "1",
 	"update": [
 		{
-		"current_version_public": "1.8.4",
+		"current_version_public": "1.8.3",
 		"public_update_release_date": "16/11/24",
  		"public_update_image_url": "https://news.anotherworldgame.com/1_8_3_release.jpg",
 		"public_update_changelog": "• Bugfixes involving the End Screen and Autosaving",
@@ -13,9 +13,9 @@
 		"supporter_update_changelog": "• 31,000 words (approximately 3 Hours of additional gameplay) \n• 21 New Events (15 Main Events, 6 Character Events) \n• Online News System (PC only) & in-game Save Data Management \n• Support for {s}Chapter 2{/s}",
 		"supporter_update_image_url": "https://news.anotherworldgame.com/1_9_0_release.jpg",
 
-		"current_version_DLC": "1.9.0",
-		"DLC_update_release_date": "18/04/25",
-		"DLC_update_filesize": "480460768"
+		"current_version_DLC": "1.9.1",
+		"DLC_update_release_date": "20/05/25",
+		"DLC_update_filesize": "492277478"
 		
         }
     ],
