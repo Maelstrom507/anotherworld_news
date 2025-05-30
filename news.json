@@ -10,7 +10,7 @@
           
 		"current_version_supporter": "1.9.2",
 		"supporter_update_release_date": "30/05/25",
-		"supporter_update_changelog": "• Resolved a bug wherein textboxes from a new save caused a crash within the game.\n• Fixed various spelling errors.",
+		"supporter_update_changelog": "• A bugfix wherein textboxes from a new save caused crashes.\n• Fixes for various spelling errors.",
 		"supporter_update_image_url": "https://news.anotherworldgame.com/1_9_1_release.jpg",
 
 		"current_version_DLC": "1.9.1",
