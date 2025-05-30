@@ -23,26 +23,27 @@
 	"supporters": {
 		"fivedollar_supporters_patreon": [
 			"astus4 | ",
+			"bastfae | ",
+			"next7lp | ",
 			"bobby32231240 | ",
 			"ezstariuszhavaal | ",
 			"m4tryu | ",
-			"Fabian Maureder | ",
 			"Maerok {image=images/phone/loreo.png}{alt}Loreo{/alt} | ",
 			"nousername2407 | ",
+			"madbadbutajoytoknow | ",
+			"saint_sinner7157 | ",
 			"rocky.4001_60528 | ",
 			"th30n10n | ",
-			"TY"
+			"saturnslush"
 		],
 		"tendollar_supporters_patreon": [
-			"ShiftySAS | ",
-			"Boba | ",
-			"ZeroAk"
+			"ShiftySAS"
 		],
 		"twentydollar_supporters_patreon": [
 			"Fisty123 {image=tooltip_kasu}"
 		],
 		"fivedollar_supporters_subscribestar": [
-			"JelF"
+			"Reservoir Creature"
 		],
 		"tendollar_supporters_subscribestar": [
 		],
@@ -54,7 +55,7 @@
 	        {
 		"title": "Update 1.9.0 - Public Release!",
 		"date": "30/05/25",
-		"text": "Version 1.9.0 has just been released to the Public - concluding the events of Kirei's Birthday! \n \nThis update includes: \n    • 33,000 words (approximately 4 Hours of additional gameplay) \n    • 21 New Events (15 Main Events, 6 Character Events) \n    • Online News System, in-game Updater & in-game Save Management \n    • Support for {s}Chapter 2{/s}",
+		"text": "Version 1.9.2 has just been released to the Public - concluding the events of Kirei's Birthday! \n \nThis update includes: \n    • 33,000 words (approximately 4 Hours of additional gameplay) \n    • 21 New Events (15 Main Events, 6 Character Events) \n    • Online News System, in-game Updater & in-game Save Management \n    • Support for {s}Chapter 2{/s}",
 		"image_url": "https://news.anotherworldgame.com/1_9_0_supporter_release.jpg",
 		"link_patreon": "https://www.patreon.com/c/maelstrom507",
 		"link_subscribestar": "https://subscribestar.adult/another-world",
@@ -63,10 +64,10 @@
 		"link_misc": ""
 	        },
 		{
-		"title": "1.9.1+ - New Features!",
+		"title": "1.9.2 - New Features!",
 		"date": "30/05/25",
 		"text": "Version 1.9.2 has brought several new features - two of these being the 'Latest News', and the in-game updater! \nThe Latest News brings information regarding events in the community and any important information - be sure to check back here for updates! \nThe in-game Updater will allow newest updates to the game to be installed within the game - without having to reinstall the entire game! \nI hope these features make the gameplay experience more enjoyable to you all! :)"
-		"image_url": "https://news.anotherworldgame.com/latest_news_release.jpg",
+		"image_url": "https://news.anotherworldgame.com/1_9_2_new_features.jpg",
 		"link_patreon": "",
 		"link_subscribestar": "",
 		"link_discord": "",
