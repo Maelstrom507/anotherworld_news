@@ -13,8 +13,8 @@
 		"supporter_update_changelog": "• Fixes for various crashing issues in the Android Downloader\n• A fix for news & DLC caching for mac builds whilst removing support for the updater\n• Fixes for various filesystem errors, resulting in missing image data\n• Several other small bugfixes and improvements",
 		"supporter_update_image_url": "https://news.anotherworldgame.com/1_9_3_release.jpg",
 
-		"current_version_DLC": "1.9.2",
-		"DLC_update_release_date": "30/05/25",
+		"current_version_DLC": "1.9.3",
+		"DLC_update_release_date": "07/07/25",
 		"DLC_update_filesize": "571001422"
 		
         }
