@@ -13,9 +13,9 @@
 		"supporter_update_changelog": "• Fixes for various crashing issues in the Android Downloader\n• A fix for news & DLC caching for mac builds whilst removing support for the updater\n• Fixes for various filesystem errors, resulting in missing image data\n• Several other small bugfixes and improvements",
 		"supporter_update_image_url": "https://news.anotherworldgame.com/1_9_3_release.jpg",
 
-		"current_version_DLC": "1.9.3",
-		"DLC_update_release_date": "07/07/25",
-		"DLC_update_filesize": "571001422"
+		"current_version_DLC": "1.10.0",
+		"DLC_update_release_date": "04/10/25",
+		"DLC_update_filesize": "598712320"
 		
         }
     ],
@@ -52,28 +52,28 @@
 	},
 
 	"news": [
-	        {
-		"title": "Update 1.9.0 - Public Release!",
-		"date": "30/05/25",
-		"text": "Version 1.9.3 has just been released to the Public - concluding the events of Kirei's Birthday! \n \nThis update includes: \n    • 33,000 words (approximately 4 Hours of additional gameplay) \n    • 21 New Events (15 Main Events, 6 Character Events) \n    • News System, in-game Updater & Save Management Tools \n    • Support for {s}Chapter 2{/s}",
-		"image_url": "https://news.anotherworldgame.com/1_9_0_supporter_release.jpg",
-		"link_patreon": "https://www.patreon.com/c/maelstrom507",
-		"link_subscribestar": "https://subscribestar.adult/another-world",
-		"link_discord": "",
-		"link_itch": "",
-		"link_misc": ""
-	        },
 		{
-		"title": "1.9.2+ - New Features!",
+		"title": "Update 1.10 - Releases October 4th!",
 		"date": "30/05/25",
-		"text": "Version 1.9.2 and onwards has brought the 'Latest News', and the in-game updater! \n\n• The 'Latest News' updates with community & update information! Check back here for updates related to the game! \n• The in-game Updater allows new updates to be installed within the game - without having to fully reinstall! \n\nI hope these features make the gameplay experience more enjoyable!",
-		"image_url": "https://news.anotherworldgame.com/1_9_2_new_features.jpg",
-		"link_patreon": "",
-		"link_subscribestar": "",
+		"text": "Version 1.10 is releasing on October 4th to all $5+ supporters! \n \nThis update includes: \n    • 14,000 words (approximately 1 Hour of additional gameplay) \n    • 8 New Events (2 Main Events, 6 Character Events) \n    • New Animations, Invite Options & Photo Messages \n    • A complete GUI overhaul",
+		"image_url": "https://news.anotherworldgame.com/1_10_supporter_announcement.jpg",
+		"link_patreon": "https://www.patreon.com/posts/version-1-10-140030438?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link",
+		"link_subscribestar": "https://subscribestar.adult/posts/2053037",
 		"link_discord": "",
-		"link_itch": "",
+		"link_itch": "https://maelstrom507.itch.io/another-world/devlog/1061940/version-110-update-announcement",
 		"link_misc": ""
-		},
+	    },
+		{
+		"title": "'Another World' - 2-Year Anniversary!",
+		"date": "30/05/25",
+		"text": "I seriously cannot thank everyone enough for the support I have received over the past 365 days of development. If you want to read me waffle about it all, check the posts linked below!",
+		"image_url": "https://news.anotherworldgame.com/2-year_anniversary.jpg",
+		"link_patreon": "https://www.patreon.com/posts/136718370?pr=true",
+		"link_subscribestar": "https://subscribestar.adult/posts/2012797",
+		"link_discord": "",
+		"link_itch": "https://maelstrom507.itch.io/another-world/devlog/1011612/-another-world-2-year-anniversary",
+		"link_misc": ""
+	    },
 		{
 		"title": "600 Discord Members!",
 		"date": "06/07/25",
@@ -97,3 +97,4 @@
 		}
 	]
 }
+
