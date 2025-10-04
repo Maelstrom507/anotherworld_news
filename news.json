@@ -11,7 +11,7 @@
 		"current_version_supporter": "1.10.0",
 		"supporter_update_release_date": "04/10/25",
 		"supporter_update_changelog": "• 14,000 words (approximately 1 Hour of additional gameplay) \n    • 8 New Events (2 Main Events, 6 Character Events) \n    • New Animations, Invite Options & Photo Messages \n    • A complete GUI overhaul",
-		"supporter_update_image_url": "https://news.anotherworldgame.com/1_10_release.jpg",
+		"supporter_update_image_url": "https://news.anotherworldgame.com/1_10_supporter_release.jpg",
 
 		"current_version_DLC": "1.10.0",
 		"DLC_update_release_date": "04/10/25",
@@ -97,6 +97,7 @@
 		}
 	]
 }
+
 
 
 
