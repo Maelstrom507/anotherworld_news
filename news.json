@@ -8,9 +8,9 @@
 		"public_update_changelog": "• Fixes for various crashing issues in the Android Downloader\n• A fix for news & DLC caching for mac builds whilst removing support for the updater\n• Fixes for various filesystem errors, resulting in missing image data\n• Several other small bugfixes and improvements",
 		"public_update_downloadkey": "https://maelstrom507.itch.io/another-world/download/z18Yq3t7YNqqaK71fQSpvy0NieLioTrOSLx0R0up",
           
-		"current_version_supporter": "1.10.0",
-		"supporter_update_release_date": "04/10/25",
-		"supporter_update_changelog": "• 14,000 words (approximately 1 Hour of additional gameplay) \n    • 8 New Events (2 Main Events, 6 Character Events) \n    • New Animations, Invite Options & Photo Messages \n    • A complete GUI overhaul",
+		"current_version_supporter": "1.10.1",
+		"supporter_update_release_date": "13/11/25",
+		"supporter_update_changelog": "• Fixed a critical issue in the Android Downloader to allow for future support \n•Fixed crashing issues with unrecognised menu backgrounds\n• Removed inaccessible Sports Club event \n• Added 1.10 Menu Image to Menu BG selection screen",
 		"supporter_update_image_url": "https://news.anotherworldgame.com/1_10_supporter_release.jpg",
 
 		"current_version_DLC": "1.10.0",
@@ -97,6 +97,7 @@
 		}
 	]
 }
+
 
 
 
