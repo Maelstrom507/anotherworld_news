@@ -52,10 +52,11 @@
 	},
 
 	"news": [
+
 		{
-		"title": "Update 1.10 - Releases October 4th!",
-		"date": "30/05/25",
-		"text": "Version 1.10 is releasing on October 4th to all $5+ supporters! \n \nThis update includes: \n    • 14,000 words (approximately 1 Hour of additional gameplay) \n    • 8 New Events (2 Main Events, 6 Character Events) \n    • New Animations, Invite Options & Photo Messages \n    • A complete GUI overhaul",
+		"title": "Progress Report - November 2025",
+		"date": "13/11/25",
+		"text": "There's a new post over on Patreon going over development progress and all sorts of other good stuff!\nGo check it out using the link below!",
 		"image_url": "https://news.anotherworldgame.com/1_10_supporter_announcement.jpg",
 		"link_patreon": "https://www.patreon.com/posts/version-1-10-140030438?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link",
 		"link_subscribestar": "https://subscribestar.adult/posts/2053037",
@@ -63,6 +64,19 @@
 		"link_itch": "https://maelstrom507.itch.io/another-world/devlog/1061940/version-110-update-announcement",
 		"link_misc": ""
 	    },
+		
+		{
+		"title": "Update 1.10 - OUT NOW for Supporters!",
+		"date": "04/10/25",
+		"text": "Version 1.10 has released to all $5+ supporters! \n \nThis update includes: \n    • 14,000 words (approximately 1 Hour of additional gameplay) \n    • 8 New Events (2 Main Events, 6 Character Events) \n    • New Animations, Invite Options & Photo Messages \n    • A complete GUI overhaul",
+		"image_url": "https://news.anotherworldgame.com/1_10_supporter_announcement.jpg",
+		"link_patreon": "https://www.patreon.com/posts/version-1-10-140030438?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link",
+		"link_subscribestar": "https://subscribestar.adult/posts/2053037",
+		"link_discord": "",
+		"link_itch": "https://maelstrom507.itch.io/another-world/devlog/1061940/version-110-update-announcement",
+		"link_misc": ""
+	    },
+		
 		{
 		"title": "'Another World' - 2-Year Anniversary!",
 		"date": "30/05/25",
@@ -74,6 +88,7 @@
 		"link_itch": "https://maelstrom507.itch.io/another-world/devlog/1011612/-another-world-2-year-anniversary",
 		"link_misc": ""
 	    },
+		
 		{
 		"title": "600 Discord Members!",
 		"date": "06/07/25",
@@ -84,8 +99,9 @@
 		"link_discord": "https://discord.com/invite/TJpheQW3db",
 		"link_itch": "",
 		"link_misc": ""
-        	},
-        	{
+        },
+		
+        {
 		"title": "'Another World' OST on YouTube!",
 		"date": "18/08/24",
 		"text": "Due to popular demand, the official 'Another World' soundtrack is available on Youtube! \n\nI'll be adding tracks frequently to the channel to share all of the talent that's been accumulated for the soundtrack to this game. Be sure to check it out if you're interested!",
@@ -97,6 +113,7 @@
 		}
 	]
 }
+
 
 
 
