@@ -2,10 +2,10 @@
 	"online_news_version": "1",
 	"update": [
 		{
-		"current_version_public": "1.9.3",
-		"public_update_release_date": "09/06/25",
- 		"public_update_image_url": "https://news.anotherworldgame.com/1_9_3_release.jpg",
-		"public_update_changelog": "• Fixes for various crashing issues in the Android Downloader\n• A fix for news & DLC caching for mac builds whilst removing support for the updater\n• Fixes for various filesystem errors, resulting in missing image data\n• Several other small bugfixes and improvements",
+		"current_version_public": "1.10.1",
+		"public_update_release_date": "12/12/25",
+ 		"public_update_image_url": "https://news.anotherworldgame.com/1_10_public_release.jpg",
+		"public_update_changelog": "• +14,000 words, with around 1 hour of gameplay\n8 New Events (2 Main Events, 6 Character Events)\n2 New Animations & 2 New Invite Options\n6 New Photo Messages",
 		"public_update_downloadkey": "https://maelstrom507.itch.io/another-world/download/z18Yq3t7YNqqaK71fQSpvy0NieLioTrOSLx0R0up",
           
 		"current_version_supporter": "1.10.1",
@@ -113,6 +113,7 @@
 		}
 	]
 }
+
 
 
 
