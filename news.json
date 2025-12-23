@@ -22,28 +22,45 @@
 
 	"supporters": {
 		"fivedollar_supporters_patreon": [
+			"angelcharm | ",
+			"archion_drake | ",
 			"astus4 | ",
+			"aquatano24 | ",
 			"bastfae | ",
+			"cenx147 | ",
 			"next7lp | ",
 			"bobby32231240 | ",
 			"ezstariuszhavaal | ",
+			"impernable | ",
+			"Jacoasso | ",
+			"jesseking3459 | ",
+			"like_o_0 | ",
+			"ljnagaend | ",
 			"m4tryu | ",
-			"Maerok {image=images/phone/loreo.png}{alt}Loreo{/alt} | ",
+			"madbad | ",
+			"maerok {image=images/phone/loreo.png}{alt}Loreo{/alt} | ",
 			"nousername2407 | ",
 			"madbadbutajoytoknow | ",
+			"primeelite25 | ",
 			"saint_sinner7157 | ",
+			"sakeshinobi97 | ",
+			"sc_boy_58020 | ",
 			"rocky.4001_60528 | ",
 			"th30n10n | ",
-			"saturnslush"
+			"saturnslush | ",
+			"xraycat"
 		],
 		"tendollar_supporters_patreon": [
-			"ShiftySAS"
+			"shiftysas | ",
+			"aerodynamic"
 		],
 		"twentydollar_supporters_patreon": [
-			"Fisty123 {image=tooltip_kasu}"
+			"fisty123 {image=tooltip_kasu}"
 		],
 		"fivedollar_supporters_subscribestar": [
-			"Reservoir Creature"
+			"autspar | ",
+			"panzerrabbit | ",
+			"JelF"
 		],
 		"tendollar_supporters_subscribestar": [
 		],
@@ -115,6 +132,7 @@
 		}
 	]
 }
+
 
 
 
