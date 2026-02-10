@@ -4,7 +4,14 @@
 		{
 		"current_version_public": "1.10.1",
 		"public_update_release_date": "12/12/25",
- 		"public_update_image_url": "https://news.anotherworldgame.com/1_10_public_release.jpg",
+		"public_update_filesize_win": "2.15 GB",
+		"public_update_filesize_mac": "2.12 GB",
+			
+		"current_version_downloader": "2025.11",
+		"downloader_release_date": "24/11/25",
+		"downloader_filesize": "77.6 MB",
+
+		"public_update_image_url": "https://news.anotherworldgame.com/1_10_public_release.jpg",
 		"public_update_changelog": "• +14,000 words, with around 1 hour of gameplay\n8 New Events (2 Main Events, 6 Character Events)\n2 New Animations & 2 New Invite Options\n6 New Photo Messages",
 		"public_update_downloadkey": "https://maelstrom507.itch.io/another-world/download/z18Yq3t7YNqqaK71fQSpvy0NieLioTrOSLx0R0up",
           
@@ -83,18 +90,16 @@
 	    },
 
 		{
-		"title": "Progress Report - November 2025",
+		"title": "Progress Report - January 2026",
 		"date": "13/11/25",
 		"text": "There's a new post over on Patreon/Subscribestar going over development progress and all sorts of other good stuff!\nGo check it out using the links below!",
-		"image_url": "https://news.anotherworldgame.com/progress_report_november_2025.jpg",
-		"link_patreon": "https://www.patreon.com/posts/143457472?pr=true",
-		"link_subscribestar": "https://subscribestar.adult/posts/2161550",
+		"image_url": "https://news.anotherworldgame.com/progress_report_january_2026.jpg",
+		"link_patreon": "https://www.patreon.com/posts/progress-report-148556470",
+		"link_subscribestar": "https://subscribestar.adult/posts/2256596",
 		"link_discord": "",
 		"link_itch": "",
 		"link_misc": ""
 	    },
-		
-		
 		
 		{
 		"title": "'Another World' - 2-Year Anniversary!",
@@ -132,6 +137,7 @@
 		}
 	]
 }
+
 
 
 
