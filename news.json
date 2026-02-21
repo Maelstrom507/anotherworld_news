@@ -6,7 +6,7 @@
 		"public_update_release_date": "12/12/25",
 		"public_update_filesize_win": "2.15 GB",
 		"public_update_filesize_mac": "2.12 GB",
-		"public_update_changelog": "• +14,000 words, with around 1 hour of gameplay\n8 New Events (2 Main Events, 6 Character Events)\n2 New Animations & 2 New Invite Options\n6 New Photo Messages"
+		"public_update_changelog": "• +14,000 words, with around 1 hour of gameplay\n8 New Events (2 Main Events, 6 Character Events)\n2 New Animations & 2 New Invite Options\n6 New Photo Messages",
 		"public_update_image_url": "https://news.anotherworldgame.com/1_10_public_release.jpg",
           
 		"current_version_supporter": "1.10.1",
@@ -22,7 +22,7 @@
 
 		"current_version_DLC": "1.10.0",
 		"DLC_update_release_date": "04/10/25",
-		"DLC_update_filesize": "598069422",
+		"DLC_update_filesize": "598069422"
         }
     ],
 
@@ -136,6 +136,7 @@
 		}
 	]
 }
+
 
 
 
